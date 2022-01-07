@@ -2,5 +2,8 @@
 /out_neutral_cut
 /out_smile
 /out_smiling_cut
+/neutral
+/data_for_model
+/smiling
 *.exe
 *.xml
